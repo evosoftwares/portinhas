@@ -1,0 +1,70 @@
+{
+  "project_info": {
+    "project_number": "906085597557",
+    "project_id": "portinhas-ko5klh",
+    "storage_bucket": "portinhas-ko5klh.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:906085597557:android:582fec48e9ca41e7b5d33c",
+        "android_client_info": {
+          "package_name": "com.evo.portinhas"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "906085597557-6lgovfvcvbrg1e8j0527tr5ttc7bn3fo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.evo.portinhas",
+            "certificate_hash": "5fad40135f847e71a13a25048a713007e26427bb"
+          }
+        },
+        {
+          "client_id": "906085597557-7kj5opuf7haet30lq9lrtaeot14apnu8.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.evo.portinhas",
+            "certificate_hash": "35350403812858e85363b8e92a26ede7eb7b2bf1"
+          }
+        },
+        {
+          "client_id": "906085597557-usld5f0d8gdtbtdde9ffkb8amagdcqll.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.evo.portinhas",
+            "certificate_hash": "9bbb3186b2189ef16d8f272bdab59362c395cbb4"
+          }
+        },
+        {
+          "client_id": "906085597557-0qebucbuk4vn6tig7l4b32s19647k6lk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBZSCJWENTX4E5kfz5UifnEyCStsQqEF-U"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "906085597557-0qebucbuk4vn6tig7l4b32s19647k6lk.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "906085597557-f07gf2m8rkqm8tlllkpm5rpthpk5dlv4.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.evo.portinhas"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

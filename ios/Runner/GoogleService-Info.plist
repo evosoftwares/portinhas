@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>CLIENT_ID</key>
+	<string>906085597557-f07gf2m8rkqm8tlllkpm5rpthpk5dlv4.apps.googleusercontent.com</string>
+	<key>REVERSED_CLIENT_ID</key>
+	<string>com.googleusercontent.apps.906085597557-f07gf2m8rkqm8tlllkpm5rpthpk5dlv4</string>
+	<key>ANDROID_CLIENT_ID</key>
+	<string>906085597557-6lgovfvcvbrg1e8j0527tr5ttc7bn3fo.apps.googleusercontent.com</string>
+	<key>API_KEY</key>
+	<string>AIzaSyDvDpcLgF_0PegyUWX_wyZR1WmfgnYsChU</string>
+	<key>GCM_SENDER_ID</key>
+	<string>906085597557</string>
+	<key>PLIST_VERSION</key>
+	<string>1</string>
+	<key>BUNDLE_ID</key>
+	<string>com.evo.portinhas</string>
+	<key>PROJECT_ID</key>
+	<string>portinhas-ko5klh</string>
+	<key>STORAGE_BUCKET</key>
+	<string>portinhas-ko5klh.firebasestorage.app</string>
+	<key>IS_ADS_ENABLED</key>
+	<false></false>
+	<key>IS_ANALYTICS_ENABLED</key>
+	<false></false>
+	<key>IS_APPINVITE_ENABLED</key>
+	<true></true>
+	<key>IS_GCM_ENABLED</key>
+	<true></true>
+	<key>IS_SIGNIN_ENABLED</key>
+	<true></true>
+	<key>GOOGLE_APP_ID</key>
+	<string>1:906085597557:ios:14cf8ed98b9c6efeb5d33c</string>
+</dict>
+</plist>
